@@ -1,4 +1,3 @@
-import {  } from '@angular/common';
 import { NgModule } from '@angular/core';
 import { ContadorComponent } from './contador/contador.component';
 
